@@ -1,0 +1,8 @@
+{
+	"text.autoconfig.miningcooldownfix.title": "Mining Cooldown Fix Configuration",
+	"text.autoconfig.miningcooldownfix.option.mineDelay": "Cooldown Ticks",
+	"text.autoconfig.miningcooldownfix.option.allowBreakReset": "Allow block breaking to reset",
+	"text.autoconfig.miningcooldownfix.option.allowBreakCancel": "Allow block breaking to be cancelled",
+	"text.autoconfig.miningcooldownfix.option.minedelay.tooltip": "Delay in ticks between breaking a block and starting to break another. Vanilla: 5",
+	"text.autoconfig.miningcooldownfix.category.general": "General"
+	}
